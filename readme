@@ -1,0 +1,4 @@
+Before execution remove the first line "userid..." out of the input file 
+Make a folder Proj1 within mapreduce
+Put all the .java files in Proj1
+run execute.sh
